@@ -46,7 +46,7 @@
 ### 运行flutter doctor检查
 > 终端运行`flutter doctor`命令查看Flutter所有依赖安装情况
 
-[flutter doctor 检查结果](/img/page1/img01.png)
+![flutter doctor 检查结果](./img/page1/img01.png)
 
 > - `[√]` 表示依赖已经安装成功。
 > - `[x]` 标识依赖尚未安装成功，按照图片里提示操作安装相应依赖就行。
@@ -64,11 +64,11 @@
 
 Start a new Flutter project
 
-[创建Flutter项目](/img/page1/img02.png)
+![创建Flutter项目](./img/page1/img02.png)
 
 一直next到finish即可，有默认案例项目
 
-[运行按钮](/img/page1/img03.png)
+![运行按钮](./img/page1/img03.png)
 
 点击绿色运行按钮`报错`
 
